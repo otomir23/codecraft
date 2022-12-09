@@ -15,4 +15,5 @@ pluginManagement {
     }
 }
 
-rootProject.name = "quilt-kotlin-template-mod"
+// Working title
+rootProject.name = "codecraft"

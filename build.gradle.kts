@@ -13,7 +13,7 @@ plugins {
 
 val archives_base_name: String by project
 
-group = "com.example"
+group = "me.otomir23"
 version = project.version.toString()
 base.archivesName.set(archives_base_name)
 
